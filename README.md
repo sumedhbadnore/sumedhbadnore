@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJs, Python 3 and competitive coding.
 - 💞️ I’m looking to collaborate for a wholesome learning experience.
 - 📫 How to reach me: Let's connect!!
-https://www.linkedin.com/in/sumedh-badnore-a372341b9/
+www.linkedin.com/in/sumedh-badnore
 
 <!---
 sumedhbadnore/sumedhbadnore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
