@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumedhbadnore
-- 👀 I’m interested in web developing and automations.
+- 👀 I’m interested in competitive programming, web developing and automations.
 - 🌱 I’m currently learning ReactJs, Python 3 and competitive coding.
 - 💞️ I’m looking to collaborate for a wholesome learning experience.
 - 📫 How to reach me: Let's connect!!
