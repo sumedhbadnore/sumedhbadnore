@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sumedhbadnore
-- 👀 I’m interested in competitive programming, web developing and automations.
-- 🌱 I’m currently learning ReactJs, Python 3 and competitive coding.
-- 💞️ I’m looking to collaborate for a wholesome learning experience.
-- 📫 How to reach me: Let's connect!!
+- Hi, I’m @sumedhbadnore
+- I’m interested in competitive programming, web development, and automation.
+- I’m currently pursuing a Master's in Computer Science from Stevens Institute of Technology wherein I am learning Data Structures and Algorithms, Web Development, and competitive coding.
+- I’m looking for internship opportunities wherein I could contribute my skills and have a wholesome learning experience.
+- How to reach me: Let's connect!!
 www.linkedin.com/in/sumedh-badnore
 
 <!---
